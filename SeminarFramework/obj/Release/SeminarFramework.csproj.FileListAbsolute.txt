@@ -1,0 +1,8 @@
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\bin\Release\SeminarFramework.exe.config
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\bin\Release\SeminarFramework.exe
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\bin\Release\SeminarFramework.pdb
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\obj\Release\SeminarFramework.csproj.AssemblyReference.cache
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\obj\Release\SeminarFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\obj\Release\SeminarFramework.csproj.CoreCompileInputs.cache
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\obj\Release\SeminarFramework.exe
+C:\Users\AlxDmk\OneDrive\Рабочий стол\GeekBrains\SecureDev\Lesson4\Lesson4\SeminarFramework\obj\Release\SeminarFramework.pdb
